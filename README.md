@@ -1,6 +1,6 @@
 # Will the Customer Accept the Coupon?
 
-** Assginment notebook: 
+** Assginment notebook: https://github.com/ojbskvasu/ML-Assignment1/blob/main/prompt.ipynb
 
 # Problem Statement 
 Analyze the provided coupon dataset to identify the key characteristics and behaviors that differentiate users who accept coupons from those who reject them. 
